@@ -49,7 +49,7 @@
 
 ## Performance 💨
 
-The performance of this app was terrible. Fortunately, everything has been optimized and now the performance looks like [this](https://github.com/Bartek532/book-searcher#performance)
+The performance of this app was terrible. Fortunately, everything has been optimized and now the performance looks like [this](https://github.com/Bartek532/book-searcher#performance-)
 
 ## Installation 💿
 
@@ -71,4 +71,4 @@ npm run dev
 
 ## Live 🎆
 
-Actual live is available [here](https://github.com/Bartek532/book-searcher#live)
+Actual live is available [here](https://github.com/Bartek532/book-searcher#live-)
