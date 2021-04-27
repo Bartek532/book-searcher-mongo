@@ -1,17 +1,13 @@
-<div style="width: 100%; background: #ff5a5f; padding: 20px">
-
 <h1>
-   This version of the application is obsolete. <a href="https://github.com/Bartek532/book-searcher">Check the latest version</a> 😁
+   ❗ This version of the application is obsolete. <a href="https://github.com/Bartek532/book-searcher">Check the latest version</a> ❗
 </h1>
 <p>
     This version of the application includes other technologies. Not all functionalities have been implemented, but it is fully working.
 </p>
 
-</div>
-
 ## Project Overview 🎨
 
-[Link to actual project overview](https://github.com/Bartek532/book-searcher#project-overview)
+[Link to actual project overview](https://github.com/Bartek532/book-searcher#project-overview-)
 
 ## Tech/framework used 🧰
 
@@ -54,6 +50,24 @@
 ## Performance 💨
 
 The performance of this app was terrible. Fortunately, everything has been optimized and now the performance looks like [this](https://github.com/Bartek532/book-searcher#performance)
+
+## Installation 💿
+
+```bash
+
+git clone https://github.com/Bartek532/book-searcher-mongo.git
+
+# 1. Run server
+cd server
+npm install
+npm run dev
+
+# 2. Run client
+cd client
+npm install
+npm run dev
+
+```
 
 ## Live 🎆
 
